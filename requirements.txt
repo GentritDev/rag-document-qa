@@ -1,0 +1,26 @@
+# Core RAG
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-groq==0.2.1
+langchain-huggingface==0.1.2
+chromadb==0.5.18
+
+# Embeddings (local, free)
+sentence-transformers==3.3.1
+
+# Backend
+fastapi==0.115.5
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+
+# Frontend
+gradio==5.6.0
+
+# Config & Utils
+pydantic==2.10.2
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
+pypdf==5.1.0
+
+# Logging
+loguru==0.7.2
