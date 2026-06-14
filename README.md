@@ -12,7 +12,7 @@ pinned: false
 
 A production-ready **Retrieval-Augmented Generation (RAG)** system for intelligent document Q&A. Upload technical PDFs and ask natural language questions to get contextually accurate answers powered by LLMs.
 
-** [Live Demo](https://huggingface.co/spaces/Genti123/rag-document-qa)** 
+**[Live Demo](https://huggingface.co/spaces/Genti123/rag-document-qa)** 
 ---
  [API Docs](#-rest-api-endpoints) |  [Docker](#docker-deployment)
 
